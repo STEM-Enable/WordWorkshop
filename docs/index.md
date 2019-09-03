@@ -1,5 +1,4 @@
-
-{:toc}
+* TOC {:toc}
 
 # Workshop
 
