@@ -1,6 +1,9 @@
-#Workshop
 
-##Using Word Accessibility Checker for basic tests
+{:toc}
+
+# Workshop
+
+## Using Word Accessibility Checker for basic tests
 
 You can run the accessibility checker either by pressing **alt+r** then **a** then **1** or: 
 
@@ -9,16 +12,16 @@ You can run the accessibility checker either by pressing **alt+r** then **a** th
 
 The results will appear in the right-hand document pane. Click on each error to get more information and to see the steps you should take to fix the error. Don’t fix these yet though! 
 
-###Discuss
+### Discuss
 
 * Do you think that these are all the issues with the document? 
 * Do you think the recommended fixes are appropriate?
 
-##Using Word 365 Learning Tools (Immersive) for basic tests
+## Using Word 365 Learning Tools (Immersive) for basic tests
 
-##Using Central Access Reader for basic tests
+## Using Central Access Reader for basic tests
 
-##Using Windows Narrator (screenreader) for basic tests
+## Using Windows Narrator (screenreader) for basic tests
 
 Please note that these are instructions are not intended to teach you how to use a screenreader and they are not suitable for someone who usually uses a screenreader. Please also note that students will certainly have a screenreader more suited to education and employment than Narrator. These instructions exist solely to aid lecturers or teaching fellows in understanding how the structure of a Word document is used by a screenreader.
 
