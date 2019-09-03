@@ -25,3 +25,7 @@ Please note that these are instructions are not intended to teach you how to use
 | K		  | Jump to next link					| Add shift for previous link			|
 | T		  | Jump to next table					| Add shift for previous table			|
 
+## Discuss
+
+* What additional issues have you found with the document?
+* Do you know what is causing them?

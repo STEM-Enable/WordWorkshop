@@ -10,6 +10,10 @@
 
 Every part of your document should be styled. This helps with navigation which is, arguably, more important in a mathematical document. Why? When we read mathematics we move backwards and forwards checking things far more than when reading other text.
 
+### Don't add whitespace
+
+THING THING THING
+
 ## Mathematical text
 
 **All** mathematical text should be written using the Office equation editor. For instance, if you are writing about the variable \(x\) it should be written as an equation. If you are writing \(x^2\) it should be written as an equation.
