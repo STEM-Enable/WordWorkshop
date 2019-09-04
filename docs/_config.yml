@@ -3,3 +3,5 @@ title: Using Word to write an accessible mathematical document
 email: mash-access@bath.ac.uk
 theme: jekyll-theme-cayman
 show_downloads: true
+kramdown:
+  math_engine: mathjax
