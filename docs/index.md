@@ -1,9 +1,11 @@
 
+# Using Word to write an accessible mathematical document
+
 ## Workshop CETL-MSOR 2019
 
 This workshop was delivered at CETL-MSOR 2019. It might be used again and other people are welcome to use it if it is helpful. 
 
-### The plan
+## The plan
 
 1. [Background: Technical requirements](technical.html)
 2. [Introduction: What makes a Mathematical document accessible?](needed.html)
