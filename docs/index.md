@@ -1,5 +1,3 @@
-# Workshop CETL-MSOR 2019
-
 This workshop was delivered at CETL-MSOR 2019. It might be used again and other people are welcome to use it if it is helpful. 
 
 ## The plan

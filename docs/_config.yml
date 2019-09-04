@@ -1,5 +1,6 @@
 markdown: kramdown
 title: Using Word to write an accessible mathematical document
+description: Workshop CETL-MSOR 2019
 email: mash-access@bath.ac.uk
 theme: jekyll-theme-cayman
 show_downloads: true
