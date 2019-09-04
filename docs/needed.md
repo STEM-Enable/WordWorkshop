@@ -23,3 +23,5 @@ A document has structural integrity if each component within it retains the stru
 ## Alternative methods of interacting with material
 
 Some examples of inaccessibility are not due to lack of structure but are because the material is presented in a mode that is fundamentally inaccessible to a particular group of readers. For instance, a diagram which does not have an alternative method of accessing the information contained within it.
+
+[Return to plan](index.html)

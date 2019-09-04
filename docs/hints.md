@@ -30,3 +30,4 @@ If you find inputting equations slow in Word (click, click, click) then you can 
 * [Getting started with effective entry of equations in Word](http://www.mathcentre.ac.uk/bathmash/Word/index.html)
 * If you usually use [MathType]() then you may wish to make a change. You can now type in Word equation editor **and** while MathType equations are accessible to some assistive technology they are not accessible to all. It is an automatic transform to got from Word equation format to MathType but there is no quick way to undo this operation. Hence you should author in Word equation editor and check that a copy converts using MathType. 
 
+[Return to plan](index.html)

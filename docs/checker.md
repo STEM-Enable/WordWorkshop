@@ -11,3 +11,5 @@ The results will appear in the right-hand document pane. Click on each error to 
 
 * Do you think that these are all the issues with the document? 
 * Do you think the recommended fixes are appropriate?
+
+[Return to plan](index.html)

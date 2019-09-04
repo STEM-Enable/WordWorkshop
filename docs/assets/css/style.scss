@@ -7,8 +7,8 @@
 
     color: #fff;
     text-align: center;
-    background-color: #8e2579;
-    background-image: linear-gradient(180deg, #8e2579, #c9d630);
+    background-color: #fcf6fb;
+    background-image: linear-gradient(180deg, #8e2579, #fcf6fb);
 
 }
 
@@ -18,5 +18,14 @@
     padding: 2rem 2rem;
     margin: 0 auto;
     font-size: 1.1rem;
+
+}
+
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    font-weight: normal;
+    color: #525811;
 
 }
