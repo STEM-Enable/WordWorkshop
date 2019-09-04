@@ -11,8 +11,8 @@ This workshop was delivered at CETL-MSOR 2019. It might be used again and other 
  * [Todo: Word 365 Learning Tools (Immersive)](immersive.html)
  * [Todo: Central Access Reader (CAR)](car.html)
  * [Todo: Windows narrator](narrator.html)
- * Discussion: What were the problems?
+ * **Discussion: What were the problems?**
 4. [Part 2: Tour of an accessible document](https://github.com/STEM-Enable/WordWorkshop/raw/master/examples/Structured%20Word%20Document.docx)
 5. [Part 3 in pairs/groups: Fix the inaccessible document!](https://github.com/STEM-Enable/WordWorkshop/raw/master/examples/Inaccessible%20Word%20Document.docx)
  * [Hints](hints.html)
- * Discussion: What might you do differently in future?
+ * **Discussion: What three things will you do differently from now on?**
