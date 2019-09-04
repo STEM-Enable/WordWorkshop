@@ -16,14 +16,13 @@ Please also note that these are instructions are not intended to teach you how t
 ## What to do to have a go
 
 1. Open the Word document you want to explore and click your cursor at the start.
-2. Remember earphones if in public!
-3. Press **Windows key + Ctrl + Enter** to start Narrator.
+2. Press **Windows key + Ctrl + Enter** to start Narrator.
    * To stop Narrator from finishing the current output press **Ctrl**
    * To stop Narrator completely press **Windows key + Ctrl + Enter**
-4. Narrator has a mode which is mainly for scanning through and reading. We are only going to use this mode as it is easy for an untrained user to use with a Word document. You cannot edit the document when in this mode. 
+3. Narrator has a mode which is mainly for scanning through and reading. We are only going to use this mode as it is easy for an untrained user to use with a Word document. You cannot edit the document when in this mode. 
    * To get in or out of scan mode press **CapsLock + Spacebar**
    * More information at <https://support.microsoft.com/en-us/help/22809/windows-10-narrator-using-scan-mode> 
-5. Try not to use the mouse! Once in scan mode use the below commands to explore the document. Try to move through the document in different ways to 'scan' it. Try to read the equations.
+4. Try not to use the mouse! Once in scan mode use the below commands to explore the document. Try to move through the document in different ways to 'scan' it. Try to read the equations.
 
 | Key press   	  | What will happen?	       	       	     	      	| What can I add?				|
 | --------------- |-----------------------------------------------------|-----------------------------------------------|
