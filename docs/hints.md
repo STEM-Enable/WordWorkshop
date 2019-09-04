@@ -16,7 +16,7 @@ Think carefully about a fix particularly if it involves a mathematical element o
 
 ## Mathematical text
 
-**All** mathematical text should be written using the Office equation editor. For instance, if you are writing about the variable \(x\) it should be written as an equation. If you are writing \(x^2\) it should be written as an equation.
+**All** mathematical text should be written using the Office equation editor. For instance, if you are writing about the variable $x$ it should be written as an equation. If you are writing $x^2$ it should be written as an equation.
 
 * Never use insert symbol.
 * Never write superscripts, subscripts, fractions etc. using font or style changes and standard keyboard input alone
