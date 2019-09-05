@@ -17,8 +17,8 @@ This workshop was delivered at CETL-MSOR 2019. It might be used again and other 
  * **Discussion: What were the problems?**
 4. **[Part 2: Tour of an accessible document](https://github.com/STEM-Enable/WordWorkshop/raw/master/examples/Structured%20Word%20Document.docx)**
 5. **Part 3:** [Get started fixing an inaccessible document or creating an accessible one!](https://github.com/STEM-Enable/WordWorkshop/raw/master/examples/Inaccessible%20Word%20Document.docx)
- * [Summary of your basic aims](hints.html)
-   * You might have a document you want to fix
-   * Or you might want to start writing a document and test what you do
-   * Or come up with your own fix of the inaccessible document linked above 
- * **Discussion: What three things will you do differently from now on?**
+   * [Summary of your basic aims](hints.html)
+     * You might have a document you want to fix
+     * Or you might want to start writing a document and test what you do
+     * Or come up with your own fix of the inaccessible document linked above 
+   * **Discussion: What three things will you do differently from now on?**
