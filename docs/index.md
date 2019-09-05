@@ -16,6 +16,7 @@ This workshop was delivered at CETL-MSOR 2019. It might be used again and other 
  * [Todo: Windows narrator](narrator.html)
  * **Discussion: What were the problems?**
 4. **[Part 2: Tour of an accessible document](https://github.com/STEM-Enable/WordWorkshop/raw/master/examples/Structured%20Word%20Document.docx)**
-5. **Part 3 in pairs/groups:** [Fix the inaccessible document!](https://github.com/STEM-Enable/WordWorkshop/raw/master/examples/Inaccessible%20Word%20Document.docx)
+5. **Part 3:** [Get started fixing an inaccessible document or creating an accessible one!](https://github.com/STEM-Enable/WordWorkshop/raw/master/examples/Inaccessible%20Word%20Document.docx)
+ * You might have a document you want to fix or you might want to start writing a document and test what you do. Or, you can come up with your own fix of the inaccessible document linked above. 
  * [Hints](hints.html)
  * **Discussion: What three things will you do differently from now on?**
