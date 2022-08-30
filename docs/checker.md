@@ -9,9 +9,9 @@ Use either by pressing **Alt+R** then **A** then **1** or:
 
 The results will appear in the right-hand document pane. Click on each error to get more information and to see the steps you should take to fix the error. Don’t fix these yet though! 
 
-## Discuss
+## Consider or discuss
 
-* Do you think that these are all the issues with the document? 
+* Do you think these are all the issues with the document? 
 * Do you think the recommended fixes are appropriate?
 
 [Return to plan](index.html)

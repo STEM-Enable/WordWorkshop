@@ -2,7 +2,7 @@
 
 ## But do screenreaders read Word equations directly?
 
-At the moment accessible equations in Word are relatively new - Microsoft have done/is doing the necessary work but some of the screenreader vendors/publishers have not yet implemented the interface. For screenreader users in this situation one of the following should be accessible:
+Accessible equations in Word are still relatively new - Microsoft have done the necessary work but some of the screenreader vendors/publishers have not yet implemented the interface. For screenreader users in this situation one of the following should be accessible:
 
 * Word with equations converted using MathType (MathPlayer needs to be installed too)
 * HTML Flex output from CAR
@@ -37,9 +37,5 @@ Please also note that these are instructions are not intended to teach you how t
 | K		  | Jump to next link					| Add shift for previous link			|
 | T		  | Jump to next table					| Add shift for previous table			|
 
-## Discuss
-
-* What additional issues have you found with the document?
-* Do you know what is causing them?
 
 [Return to plan](index.html)

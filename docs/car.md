@@ -16,11 +16,6 @@ It is a good idea to make students aware of the above and to suggest that they e
 3. Increase the font size
 4. Click play to read aloud
 
-## Discuss
-
-* What additional issues have you found with the document?
-* Do you know what is causing them?
-
 # CAR can be used to create alternative formats
 
 CAR is not screenreader accessible but it can be used to create alternative formats for screenreader users whose screenreader does not, as yet, work with Word equations. To do this:

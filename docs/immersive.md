@@ -9,9 +9,9 @@ To use this tool:
 4. Increase the text size, change the colours etc. and have a look at the result.
 5. Put the cursor in the document and click on read aloud and/or the play button (depends on version).
 
-## Discuss
+## Consider or discuss
 
 * What additional issues have you found with the document?
-* Do you know what is causing them?
+* Do you know what is causing them? Can you fix them?
 
 [Return to plan](index.html)
