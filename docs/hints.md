@@ -22,7 +22,7 @@ Think carefully about a fix particularly if it involves a mathematical element o
 * Never write superscripts, subscripts, fractions etc. using font or style changes and standard keyboard input alone
 * Never use an image of an equation.
 
-You may find that [Getting started with effective entry of equations in Word](http://www.mathcentre.ac.uk/bathmash/Word/index.html) is useful to speed up the input of equations. Equations can be input using solely by typing. 
+You may find that [Getting started with effective entry of equations in Word](https://bathmash.github.io/gettingstarted/Word/index.html) is useful to speed up the input of equations. Equations can be input using solely by typing. 
 
 If you usually use [MathType](http://www.wiris.com/mathtype) then please reconsider until Wiris add functionality. The current situation is:
 
@@ -35,6 +35,6 @@ Hence, the most effective master format for accessibility purposes is Word with 
 
 ### Remind me of why I need to follow these rules?
 
-This enables assistive technology which can interact directly with equations in Word to work properly. It also ensures that automatic conversion is possible, using the structural integrity, to other formats which are accessible by other assistive technology. <!-- For a full overview of the current situation see the [table which tells us which AT works with which formats]().-->
+This enables assistive technology which can interact directly with equations in Word to work properly. It also ensures that automatic conversion is possible, using the structural integrity, to other formats which are accessible by other assistive technology. 
 
 [Return to plan](index.html)

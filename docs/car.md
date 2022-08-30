@@ -5,21 +5,21 @@ It is common for students with dyslexia, other SpLDs or with conditions which im
 * TextHelp Read&Write
 * ClaroRead
 
-As of 3rd September 2019 the above pieces of software could not read aloud equations in Word. TextHelp Read&Write can read aloud accessible mathematical text on websites. ClaroRead has no capabilities for reading any mathematical text.
+At the last time of testing, these pieces of software could not read equations in Word aloud. TextHelp Read&Write could read aloud accessible mathematical text on websites. ClaroRead had no capabilities for reading any mathematical text. It is a good idea to make students aware of this, to suggest this is tested during their Assistive Technology Training, and to suggest that they either use Word 365 or [Central Access Reader (CAR)](https://www.cwu.edu/central-access/reader) instead if the situation persists. **CAR is free**. 
 
-It is a good idea to make students aware of the above and to suggest that they either use Word 365 or Central Access Reader (CAR) instead. **CAR is free**. 
+## CAR can also be used to create alternative formats
+
+CAR is not screenreader accessible but it can be used to create alternative formats for screenreader users whose screenreader does not, as yet, work with Word equations.
 
 ## Testing the document using CAR
 
+To read the document in CAR:
 1. Download the document and run CAR
 2. Click on the plus symbol and select the document
 3. Increase the font size
 4. Click play to read aloud
 
-# CAR can be used to create alternative formats
-
-CAR is not screenreader accessible but it can be used to create alternative formats for screenreader users whose screenreader does not, as yet, work with Word equations. To do this:
-
+To convert the document to other formats:
 1. Click on the Save to MP3 button.
 2. Select the HTML Flex export option. 
 3. Provide the output files to the student (learning how to use these is outside the scope of this workshop).
