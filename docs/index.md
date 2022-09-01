@@ -15,6 +15,6 @@ This workshop was delivered at CETL-MSOR 2022, based on that delivered at CETL-M
    * [Tool: Accessibility Checker](checker.html)
    * [Tool: Word 365 Learning Tools (Immersive)](immersive.html)
    * [Further tool: Central Access Reader (CAR)](car.html)
-   * [Further tool: Windows narrator](narrator.html)
+<!--   * [Further tool: Windows narrator](narrator.html)-->
 5. **Concluding: What three things will you do differently from now on?** 
    
